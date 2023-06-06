@@ -1,3 +1,5 @@
 # ringzer0
 
-Writes up for <https://ringzer0team.com>. It is an amazing website. Some chanlleges at this site are very very hard.
+网站： https://ringzer0ctf.com/
+
+如果需要帮助，请加我的微信。
